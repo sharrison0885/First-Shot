@@ -1,0 +1,13 @@
+The following changes since commit 5d89af6455753a58acc58b2fc5e06104130653fd:
+
+  this is steve (2015-08-10 19:33:39 -0400)
+
+are available in the git repository at:
+
+  https://github.com/sharrison0885/First-Shot.git master
+
+for you to fetch changes up to 5d89af6455753a58acc58b2fc5e06104130653fd:
+
+  this is steve (2015-08-10 19:33:39 -0400)
+
+----------------------------------------------------------------
